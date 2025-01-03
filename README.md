@@ -1,8 +1,51 @@
-<h1 style="background-color: #333; color: white; text-align: center; padding: 20px;">
-Hello these are my projects for this year <span style="color: yellow; font-weight: bold;">2025</span> <del>2024</del>
-</h1>
+# 🌟 Welcome to My Projects for **2025** ~~2024~~
 
-<h2 style="text-align: center;">About Me</h2>
-<p style="text-align: center;">
-Hello, my name is <b>Andrew</b>. I’m a computer science major, which might not come as a surprise. I’m passionate about this field and would love to share some of the projects I’ve been working on with you.
-</p>
+![Projects Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Projects) <!-- You can replace this link with your own banner image -->
+
+---
+
+## 📖 About Me
+
+Hello! My name is **Andrew**, and I’m a passionate **Computer Science major**.  
+I love exploring the field of technology and building projects that solve real-world problems.  
+
+This repository showcases some of my favorite projects that I’ve worked on.  
+Feel free to explore and reach out if you'd like to collaborate or learn more!
+
+---
+
+## 🛠️ Skills
+Here are some of the technologies and skills I’ve worked with:
+
+- **Languages**: C++, Python, Java
+- **Tools**: Git, Visual Studio Code, Docker
+- **Frameworks**: React, Node.js
+
+---
+
+## 📂 Projects
+
+Here are a few highlights of my work:
+
+### 1️⃣ [Project Name](#)
+- **Description**: A brief overview of the project.
+- **Tech Stack**: C++, OpenGL
+- [View Source Code](#)
+
+### 2️⃣ [Another Project](#)
+- **Description**: What it does and why it’s cool.
+- **Tech Stack**: Python, Flask
+- [View Source Code](#)
+
+---
+
+## 🤝 Connect with Me
+
+- **Email**: [andrew@example.com](mailto:andrew@example.com)
+- **GitHub**: [github.com/Andrew-Greg-lopez](https://github.com/Andrew-Greg-lopez)
+- **LinkedIn**: [linkedin.com/in/andrew](https://linkedin.com/in/andrew)
+
+---
+
+Thank you for visiting my repository! 🌟  
+Let’s build something amazing together.p>
