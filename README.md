@@ -1,4 +1,3 @@
-# Project-for-Computer-Science
 <h1 style="background-color: #333; color: white; text-align: center; padding: 20px;">
 Hello these are my projects for this year <span style="color: yellow; font-weight: bold;">2025</span> <del>2024</del>
 </h1>
