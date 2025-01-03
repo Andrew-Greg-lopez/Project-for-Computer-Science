@@ -43,7 +43,7 @@ Here are a few highlights of my work:
 
 - **Email**: [andrew@example.com](mailto:andrew@example.com)
 - **GitHub**: [github.com/Andrew-Greg-lopez](https://github.com/Andrew-Greg-lopez)
-- **LinkedIn**: [linkedin.com/in/andrew](https://linkedin.com/in/andrew)
+
 
 ---
 
